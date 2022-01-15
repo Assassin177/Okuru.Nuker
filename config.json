@@ -1,0 +1,17 @@
+{
+    "General": {
+        "Prefix": ">",
+        "Token": "mfa.SsEtuuNXbmvcwFowz2RVB_Baddti-Bqjg3nW49JULRXDxOtIPKcvfmtCgJ81BQzKVhFDDl2KqVO2wcFVwLk9",
+        "Guild To Nuke":856498295546183680
+    },
+    "Nuke":{
+        "Channel Names": ["retardation moment", "Cry about it"],
+        "Role Names": ["Okuru Moment", "cry about it"]
+    },
+    "Webhook Spam":{
+        "Spam": true,
+        "Webhook Names": ["okuru moment", "cry about it"],
+        "Message Contents": ["XD @everyone", "@everyone X6"],
+        "Spam Amount": 30
+    }
+}
